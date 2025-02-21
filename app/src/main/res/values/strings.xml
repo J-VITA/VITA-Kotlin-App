@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vita-Kotlin</string>
+    <string name="title_activity_login">로그인</string>
+    <string name="prompt_email">이메일</string>
+    <string name="prompt_password">비밀번호</string>
+    <string name="action_sign_in">로그인 또는 회원가입</string>
+    <string name="action_sign_in_short">로그인</string>
+    <string name="welcome">"어서오세요."</string>
+    <string name="invalid_username">사용자명을 입력해주세요.</string>
+    <string name="invalid_password">비밀번호는 5글자 이상이여야 합니다.</string>
+    <string name="login_failed">"로그인 실패"</string>
+</resources>
